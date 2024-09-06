@@ -7,19 +7,19 @@ object Constants {
     /**
      * 应用 标题
      */
-    const val APP_TITLE = "我的电视"
+    const val APP_TITLE = "电视-Baa"
 
     /**
      * 应用 代码仓库
      */
-    const val APP_REPO = "https://github.com/yaoxieyoulei/mytv-android"
-
+    const val APP_REPO = " "
+    // const val APP_REPO = "https://github.com/yaoxieyoulei/mytv-android"
     /**
      * IPTV源地址
      */
     const val IPTV_SOURCE_URL =
-        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
-
+        "https://mirror.ghproxy.com/https://github.com/fanmingming/live/blob/main/tv/m3u/itv.m3u"
+    // "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"
     /**
      * IPTV源缓存时间（毫秒）
      */
@@ -39,8 +39,8 @@ object Constants {
      * Git最新版本信息
      */
     const val GIT_RELEASE_LATEST_URL =
-        "https://api.github.com/repos/yaoxieyoulei/mytv-android/releases/latest"
-
+        " "
+    // "https://api.github.com/repos/yaoxieyoulei/mytv-android/releases/latest"
     /**
      * GitHub加速代理地址
      */
